@@ -1,0 +1,100 @@
+html, body{
+	font-family: cursive;
+	padding: 0;
+	margin: 0;
+}
+
+header{
+	background-color: #ff6666;
+	padding: 15px; 
+	text-align: center;
+
+}
+
+h1 {
+	font-size: 90px;
+	color: white;
+
+}
+
+h2.about {
+	text-align: center;
+	padding-top: 20px;
+}
+
+header img {
+	border-radius: 200px;
+	width: 500px;
+	border: 15px solid #ffcccc;
+}
+
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	background-color: #ffe6e6;
+	padding: 0 20px 20px 20px;
+}
+img.big-image {
+	max-width: 100%;
+}
+
+img.profile2 {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 200px;
+	width: 500px;
+	border: 15px solid #ff6666;
+
+	}
+
+	p.caption {
+		font-size: 15px;
+		color: #ff6666;
+		font-style: italic;
+	}
+a{
+	color:  #ff3333;
+	text-decoration: none;
+}
+
+ul {
+		list-style: none;
+		padding: 0;
+		margin: 20px;
+		text-align: center;
+
+	}
+
+ul li {
+	display: inline-block;
+	margin: 0 5px;
+}
+
+img.Friends {
+
+		display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 50%;
+	width: 150px;
+	border: 10px solid #ff6666;
+	}
+
+
+
+
+footer ul{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 10px 20px;
+	background-color: #ff6666;
+}
+
+footer ul{
+	text-align: center;
+}
+footer ul li {
+	display: inline-block;
+	margin: 0 5px;
+}
